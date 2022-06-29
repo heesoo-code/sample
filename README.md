@@ -1,8 +1,17 @@
 마크다운 문법 연습
 =================
 > 참고자료는 마크다운 사용법
+>> + 꺼무위키
+
+[나무위키](https://namu.wiki/w/나무위키:대문)
+
+출처는 [위키백과][wiki]입니다.
+
+[wiki]: http://en.wikipedia.org/wiki/Markdown#Syntax_examples
+
 
 ***
+
 
 1. 1
 2. 2
