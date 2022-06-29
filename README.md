@@ -45,11 +45,11 @@ public class BootSpringBootApplication {
 
 ***
 
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+*single asterisks*   
+_single underscores_   
+**double asterisks**   
+__double underscores__   
+~~cancelline~~   
 
 
 줄 바꾸려면 3칸이상 띄어쓰기.   
